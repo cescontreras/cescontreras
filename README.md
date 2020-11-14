@@ -21,7 +21,19 @@
    </p> 
    
   ******
-  
+### - 📫 How to reach me: ...
+   <p>
+      <a href="https://www.linkedin.com/in/contreras-cesar-alejandro/">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
+      </a>
+   </p>  
+   <p>
+      <a href="mailto:contreras.cesar.al@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   
+    
 <!--
 **cescontreras/cescontreras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +44,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
