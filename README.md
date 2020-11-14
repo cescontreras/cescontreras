@@ -4,9 +4,6 @@
  ![Hipster-Developer-Dice-1024x640](https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg)
  
  ******
-
-<h2 align="center">Languages and Tools:</h2>
-
 <p align="center">  
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"           width="40" height="40"/></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> </a> 
