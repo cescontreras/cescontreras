@@ -1,6 +1,5 @@
 ### Hi there! I'm Cesar 👋
 
-   
  ![Hipster-Developer-Dice-1024x640](https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg)
  
  ******
@@ -40,8 +39,9 @@
 ### - :computer: Projects
 
 <p>
-   <a href="https://github.com/cescontreras/Henry-Comics">
-      <img src="https://user-images.githubusercontent.com/67916064/99161386-9896ba00-26d0-11eb-9d1c-3b9f0a3cc4fe.png" alt="Henry Comics Repo"                                    height="30" width="30">
+   <a align='center' href="https://github.com/cescontreras/Henry-Comics">
+      <img src="https://user-images.githubusercontent.com/67916064/99161386-9896ba00-26d0-11eb-9d1c-3b9f0a3cc4fe.png" alt="Henry Comics Repo"                                    height="40" width="40">
+      <label >  Henry Comics </label>
    </a>
 </p>
 
