@@ -39,6 +39,8 @@
          <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
       </a>  
    </p>
+   <p><label>contreras.cesar.al@gmail.com</label></p>
+   
    
   ******
 #### - :computer: Projects
