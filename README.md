@@ -1,10 +1,10 @@
-## Hi there! I'm Cesar 👋
+# Hi there! I'm Cesar 👋
 
     
    <img src="https://user-images.githubusercontent.com/67916064/99156868-3bd0da80-26a3-11eb-8d30-a83f596c9c65.jpg" alt="Cesar Contreras LinkedIn Profile" width="440px" align="right">     
  
 
-### Full Stack Developer 
+## Full Stack Developer 
 <p width='40%' height="100%"align="center"> 
    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"             width="40" height="40"/> </a>   
    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"         width="40" height="40"/> </a>
@@ -33,7 +33,7 @@
   
   
 ******
-#### - 📫 How to reach me: ...
+### - 📫 How to reach me: ...
    <p>
       <a href="https://www.linkedin.com/in/contreras-cesar-alejandro/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile" height="30" width="30">
@@ -46,14 +46,21 @@
    
    
   ******
-#### - :computer: Projects
+### - :computer: Projects
 
-<p>
+#### Henry Comics
+
+  - Henry Comics es una tienda online de comics desarrollada en React Hooks con Redux en front-end y Express, PostgreSQL y Sequelize en el back-end.
+    Ademas se integró MercadoPago como plataforma de pago, autenticacion con Google y Facebook, y una "Wishlist", una feature para que el administrador del sitio pueda saber que     desean comprar sus clientes
+<p align='center'>
+     Link repo -->
    <a align='center' href="https://github.com/cescontreras/Henry-Comics">
-      <img src="https://user-images.githubusercontent.com/67916064/99161386-9896ba00-26d0-11eb-9d1c-3b9f0a3cc4fe.png" alt="Henry Comics Repo"                                    height="40" width="40">
-      <label>  Henry Comics </label>
-   </a>
+      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="25%">    
 </p>
+
+
+    
+
 
 
 <!--
